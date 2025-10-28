@@ -1,0 +1,5 @@
+{
+  "name": "Employee Records App",
+  "description": "A comprehensive, production-ready Employee Records CRUD application built with React, TypeScript, and Tailwind CSS. It features advanced data table functionality including search, sort, filter, and pagination for managing employees and departments.",
+  "requestFramePermissions": []
+}
